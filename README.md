@@ -36,9 +36,9 @@
 
 ## Proyectos
 
-### [AMICANA 2.0](https://github.com/MartinZ18/Amicana-v2.0) — en producción
+### [AMICANA 2.0](https://github.com/MartinZ18/Amicana-v2.0) — proyecto personal
 
-Sistema de gestión académica para el Instituto Cultural Argentino Norteamericano (Mendoza), usado todos los días por alumnos y personal administrativo. Cobro de cuotas integrado con MercadoPago, calendario académico, seguimiento de progreso, auditoría de cada acción que modifica datos, y **un asistente con RAG** — embeddings de 768 dimensiones en Postgres con pgvector, recuperación por similitud coseno y respuestas restringidas al contexto recuperado. Suite de regresión de 28 casos con Playwright.
+Sistema de gestión académica pensado para un instituto de idiomas de Mendoza. No está en producción — es un proyecto mío, construido completo. Cobro de cuotas integrado con MercadoPago, calendario académico, seguimiento de progreso, auditoría de cada acción que modifica datos, y **un asistente con RAG** — embeddings de 768 dimensiones en Postgres con pgvector, recuperación por similitud coseno y respuestas restringidas al contexto recuperado. Suite de regresión de 28 casos con Playwright.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white" />
@@ -50,7 +50,7 @@ Sistema de gestión académica para el Instituto Cultural Argentino Norteamerica
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-### [RAG en producción](https://github.com/MartinZ18/rag-en-produccion) — documentación técnica
+### [RAG explicado](https://github.com/MartinZ18/rag-explicado) — documentación técnica
 
 Cómo funciona por dentro el RAG de AMICANA, explicado sobre el código que efectivamente corrió: embeddings, chunking, distancia coseno, el pipeline de ingesta y el de consulta. Incluye **seis fallas reales** con su diagnóstico — entre ellas un índice `ivfflat` mal dimensionado que limitaba cada búsqueda a un solo resultado sin emitir un error. Cinco de las seis devolvían `200 OK`.
 
