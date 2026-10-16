@@ -1,14 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Developer;FastAPI+%7C+Spring+Boot+%7C+n8n;Automatizaci%C3%B3n+con+IA+y+RAG" alt="Backend Developer — FastAPI, Spring Boot, n8n, automatizacion con IA y RAG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Developer+%C2%B7+AI+Engineer;FastAPI+%7C+Spring+Boot+%7C+n8n;Automatizaci%C3%B3n+con+IA+y+RAG" alt="Backend Developer y AI Engineer — FastAPI, Spring Boot, n8n, automatizacion con IA y RAG" />
 </div>
 
 <p align="center">
-  Backend developer en Mendoza, Argentina 🇦🇷. Construyo APIs REST y automatizo procesos con n8n e IA.<br/>
+  Backend developer y AI engineer en Mendoza, Argentina 🇦🇷. Construyo APIs REST, integraciones y automatizaciones con n8n e IA.<br/>
   Me gusta agarrar un problema manual y repetitivo y sacarlo del medio.
 </p>
 
 <p align="center">
-  🟢 <strong>Disponible para roles junior backend / AI automation</strong> — remoto o presencial en Mendoza
+  🟢 <strong>Disponible para roles de AI Engineer, automatización o backend</strong> — remoto o presencial en Mendoza<br/>
+  También tomo proyectos de automatización e integración para empresas.
 </p>
 
 <p align="center">
@@ -27,7 +28,7 @@
 
 - **Backend** — Python · FastAPI · Pydantic · pytest / Java 17 · Spring Boot · Spring Security · JPA · JUnit 5 · Mockito
 - **Datos** — MySQL · PostgreSQL con pgvector · SQL Server · MongoDB
-- **IA y automatización** — n8n · RAG con embeddings y búsqueda vectorial · Ollama (inferencia local) · Groq · Gemini
+- **IA y automatización** — n8n · RAG con embeddings y búsqueda vectorial · Ollama · Groq · Gemini
 - **Infraestructura** — Docker · Kubernetes · GitHub Actions · Linux · pfSense · Active Directory
 - **Integraciones** — MercadoPago · Google OAuth · Gmail API · Google Sheets · Telegram Bot API
 - **Testing** — Playwright · pytest · JUnit 5 · Mockito
